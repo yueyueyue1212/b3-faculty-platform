@@ -1,0 +1,4 @@
+teacher_no,name,college,discipline,title,degree,research_direction,email,advisor_qualified,enrollment_status,capacity,current_students,data_source,verification_status
+B3T9001,演示导入教师,计算机学院,计算机科学与技术,讲师,博士,多模态数据治理与知识图谱,demo.teacher@example.edu.cn,否,未开放,0,0,演示导入-模拟数据,pending
+B3T0001,重复编号演示,计算机学院,计算机科学与技术,讲师,博士,测试方向,dup@example.edu.cn,否,未开放,0,0,演示导入-模拟数据,pending
+B3T9002,错误职称演示,计算机学院,计算机科学与技术,首席教授,博士,测试方向,bad-email,否,未开放,0,0,演示导入-模拟数据,pending
